@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1016089238239",
+    "firebase_url": "https://arproject-2946a-default-rtdb.firebaseio.com",
+    "project_id": "arproject-2946a",
+    "storage_bucket": "arproject-2946a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016089238239:android:011df1342427fe0ac9676a",
+        "android_client_info": {
+          "package_name": "com.avo.unity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtPtxh74VakIt0WPG9R0cXwDkCPbHphVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016089238239:android:008a8a0c2acf7212c9676a",
+        "android_client_info": {
+          "package_name": "com.unity.avometer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtPtxh74VakIt0WPG9R0cXwDkCPbHphVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016089238239:android:3f639ed191e990f7c9676a",
+        "android_client_info": {
+          "package_name": "com.vuforia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtPtxh74VakIt0WPG9R0cXwDkCPbHphVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
