@@ -29,6 +29,14 @@
 *.pdb.meta
 *.mdb.meta
 
+# Firebase
+Assets/Firebase/
+Assets/Firebase.meta
+
+# Vuforia
+Packages/com.ptc.vuforia.engine-11.4.4.tgz
+Packages/com.ptc.vuforia.engine-11.4.4.tgz.meta
+
 # Unity3D generated file on crash reports
 sysinfo.txt
 
