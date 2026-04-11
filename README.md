@@ -6,7 +6,7 @@
 
 ##  👥 Anggota Tim
 
-- Bilal Rizky - 224443050
+- Bilal Rizky Akbar - 224443050
 - Muhammad Miftah Rizki - 224443061
 - Gibral Haikal Faiz - 224443075
 - Haikal Alghiffari Sunggoro - 224443075
