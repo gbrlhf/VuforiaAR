@@ -1,4 +1,6 @@
-# Unity generated
+# =========================
+# Unity Generated Folders
+# =========================
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
@@ -6,9 +8,16 @@
 [Bb]uilds/
 [Ll]ogs/
 [Uu]ser[Ss]ettings/
+MemoryCaptures/
 
-# Visual Studio
+# =========================
+# IDE / Visual Studio
+# =========================
 .vs/
+.idea/
+.gradle/
+.consulo/
+
 *.csproj
 *.unityproj
 *.sln
@@ -24,30 +33,48 @@
 *.opendb
 *.VC.db
 
-# Unity3D generated meta files
+# =========================
+# Unity Meta Generated
+# =========================
 *.pidb.meta
 *.pdb.meta
 *.mdb.meta
 
-# Firebase
-Assets/Firebase/
-Assets/Firebase.meta
-
-# Vuforia
-Packages/com.ptc.vuforia.engine-11.4.4.tgz
-Packages/com.ptc.vuforia.engine-11.4.4.tgz.meta
-
-# Unity3D generated file on crash reports
-sysinfo.txt
-
-# Builds
+# =========================
+# Build Files
+# =========================
 *.apk
 *.aab
 *.unitypackage
 *.app
 
-# Crashlytics
+# =========================
+# Crash Reports
+# =========================
+sysinfo.txt
 crashlytics-build.properties
 
-# Asset Store
+# =========================
+# Asset Store Tools
+# =========================
 Assets/AssetStoreTools*
+
+# =========================
+# Optional Firebase Ignore
+# =========================
+# Hapus tanda # jika memang ingin Firebase tidak ikut upload
+
+# Assets/Firebase/
+# Assets/Firebase.meta
+
+# =========================
+# Optional Vuforia Ignore
+# =========================
+# Packages/com.ptc.vuforia.engine-11.4.4.tgz
+# Packages/com.ptc.vuforia.engine-11.4.4.tgz.meta
+
+# =========================
+# OS Generated Files
+# =========================
+.DS_Store
+Thumbs.db
